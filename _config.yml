@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>The Big Bearded Developer</h1>
-     <p>If at first you don't succeed you should have used Ruby!</p>
+     <p>DO || !DO</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
