@@ -9,6 +9,8 @@ I am a relic. I started in computing in Junior High School by reading [Micro Adv
 
 In 2008 after spending 15 years doing hardware, networking, and security I decided I wanted to break into software so at 35 I enrolled in college for Computer Science. Graduating in 2011 I soon found employment at the [Samuel Roberts Nobel Foundation](https://www.noble.org/) as a maintenance programmer.
 
-Just a year later I started working for [LegalShield](https://www.legalshield.com) as and application analyst where I am still currently employed to this day!
+Just a year later I started working for [LegalShield](https://www.legalshield.com) as an application analyst and eventually a software engineer. 
+
+Five long years later I joined a brand new team forming at [TBS Factoring](https://www.tbsfactoring.com/) as the sole software engineer creating a Python Flask API to serve both web and mobile applications.
 
 In my spare time I am the husband of the most amazing wife in the world and the father of the best daughter in the world. Oh, and I throw heavy things like trees around for fun sometimes in the Highland Games. 
